@@ -1,0 +1,16 @@
+CS:
+  name: "Computer Science"
+  url: "http://cs.arizona.edu/"
+  apply_url: "https://grad.arizona.edu/catalog/programinfo/COSCPHD"
+INFO:
+  name: "School of Information"
+  url: "http://ischool.arizona.edu/"
+  apply_url: "https://grad.arizona.edu/catalog/programinfo/INFOPHD"
+LING:
+  name: "Linguistics"
+  url: "https://linguistics.arizona.edu/"
+  apply_url: "https://grad.arizona.edu/catalog/programinfo/LINGPHD"
+MIS:
+  name: Management Information Systems
+  url: "https://mis.eller.arizona.edu/"
+  apply_url: "https://grad.arizona.edu/catalog/programinfo/MGTPHDMIS"
