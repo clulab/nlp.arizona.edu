@@ -77,6 +77,12 @@ MIS:
   - title: "Web Computing and Mining"
     codes:
     - code: "MIS 510"
+  - title: "Data Mining for Business Intelligence"
+    codes:
+    - code: "MIS 545"
+  - title: "Introduction to Deep Learning"	
+    codes:
+    - code: "MIS 548"
   - title: "Big Data Analytics"
     codes:
     - code: "MIS 586"
