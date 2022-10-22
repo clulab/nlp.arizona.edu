@@ -50,6 +50,6 @@
   interests: "enterprise data management, business intelligence, large scale networks, and big data analytics"
 - name: "Mihai Surdeanu"
   url: "http://www.surdeanu.info/mihai/"
-  photo_url: "http://www.surdeanu.info/mihai/website/mihai/Surdeanu5-small.jpg"
+  photo_url: "https://www.cs.arizona.edu/sites/default/files/styles/az_small/public/images/people/Surdeanu_3.jpeg"
   department: "CS"
   interests: "explainable AI, machine reasoning, question answering, information extraction, semantic role labeling, and other computational linguistics problems"
