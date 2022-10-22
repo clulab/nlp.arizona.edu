@@ -2,8 +2,13 @@
     color: black;
     font-size: x-large;
 }
-.photo {
+.headshot {
     height: 150px;
     max-width: 150px;
     object-fit: cover;
+}
+.icon {
+    height: 150px;
+    max-width: 150px;
+    object-fit: scale-down;
 }

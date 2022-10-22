@@ -2,15 +2,81 @@ CS:
   name: "Computer Science"
   url: "http://cs.arizona.edu/"
   apply_url: "https://grad.arizona.edu/catalog/programinfo/COSCPHD"
+  courses:
+    - title: "Text Retrieval and Web Search"
+      codes:
+      - code: "CSC 483"
+      - code: "CSC 583"
+    - title: "Algorithms for Natural Language Processing"
+      codes:
+      - code: "CSC 585"
 INFO:
   name: "School of Information"
   url: "http://ischool.arizona.edu/"
   apply_url: "https://grad.arizona.edu/catalog/programinfo/INFOPHD"
+  courses:
+  - title: "Introduction to Natural Language Processing"
+    codes:
+    - code: "ISTA 355"
+      url: "https://ischool.arizona.edu/course/ista-355-introduction-natural-language-processing"
+  - title: "Bayesian Modeling and Inference"
+    codes:
+    - code: "ISTA 410"
+      url: "https://ischool.arizona.edu/course/ista-410-bayesian-modeling-and-inference"
+    - code: "INFO 510"
+      url: "https://ischool.arizona.edu/course/info-510-bayesian-modeling-and-inference"
+  - title: "Introduction to Machine Learning"
+    codes:
+    - code: "ISTA 421"
+      url: "https://ischool.arizona.edu/course/ista-421-introduction-machine-learning"
+    - code: "INFO 521"
+      url: "https://ischool.arizona.edu/course/info-521-introduction-machine-learning"
+  - title: "Artificial Intelligence"
+    codes:
+    - code: "ISTA 450"
+      url: "https://ischool.arizona.edu/course/ista-450-artificial-intelligence"
+    - code: "INFO 550"
+      url: "https://ischool.arizona.edu/course/info-550-artificial-intelligence"
+  - title: "Applied Natural Language Processing"
+    codes:
+    - code: "ISTA 455"
+      url: "https://ischool.arizona.edu/course/ista-455-applied-natural-language-processing"
+    - code: "INFO 555"
+      url: "https://ischool.arizona.edu/course/info-555-applied-natural-language-processing"
+  - title: "Neural Networks"
+    codes:
+    - code: "ISTA 457"
+      url: "https://ischool.arizona.edu/course/ista-457-neural-networks"
+    - code: "INFO 557"
+      url: "https://ischool.arizona.edu/course/info-557-neural-networks"
 LING:
   name: "Linguistics"
   url: "https://linguistics.arizona.edu/"
   apply_url: "https://grad.arizona.edu/catalog/programinfo/LINGPHD"
+  courses:
+  - title: "Statistical Natural Language Processing"
+    codes:
+    - code: "LING 439"
+    - code: "LING 539"
+  - title: "Computational Techniques for Linguistics"
+    codes:
+    - code: "LING 408"
+    - code: "LING 508"
+  - title: "Speech Technology"
+    codes:
+    - code: "LING 478"
+    - code: "LING 578"
+  - title: "Advanced Statistical Natural Language Processing"
+    codes:
+    - code: "LING 582"
 MIS:
   name: Management Information Systems
   url: "https://mis.eller.arizona.edu/"
   apply_url: "https://grad.arizona.edu/catalog/programinfo/MGTPHDMIS"
+  courses:
+  - title: "Web Computing and Mining"
+    codes:
+    - code: "MIS 510"
+  - title: "Big Data Analytics"
+    codes:
+    - code: "MIS 586"
