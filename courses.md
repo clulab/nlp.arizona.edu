@@ -20,8 +20,8 @@ order: 2
                     {%- else -%}
                         {{ item.code }}
                     {%- endif -%}
-                {% endfor %}
-                {{ course.title }}<br/>
+                {%- endfor -%}
+                : {{ course.title }}<br/>
             {% endfor %}
         </div>
     </div>
