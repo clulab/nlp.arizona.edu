@@ -54,14 +54,14 @@ LING:
   url: "https://linguistics.arizona.edu/"
   apply_url: "https://grad.arizona.edu/catalog/programinfo/LINGPHD"
   courses:
-  - title: "Statistical Natural Language Processing"
-    codes:
-    - code: "LING 439"
-    - code: "LING 539"
   - title: "Computational Techniques for Linguistics"
     codes:
     - code: "LING 408"
     - code: "LING 508"
+  - title: "Statistical Natural Language Processing"
+    codes:
+    - code: "LING 439"
+    - code: "LING 539"
   - title: "Speech Technology"
     codes:
     - code: "LING 478"
@@ -70,7 +70,7 @@ LING:
     codes:
     - code: "LING 582"
 MIS:
-  name: Management Information Systems
+  name: "Management Information Systems"
   url: "https://mis.eller.arizona.edu/"
   apply_url: "https://grad.arizona.edu/catalog/programinfo/MGTPHDMIS"
   courses:
