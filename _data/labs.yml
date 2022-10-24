@@ -1,6 +1,6 @@
 - name: "Computational Language Understanding (CLU) Lab"
   url: "http://clulab.org/"
-  icon_url: "http://clulab.cs.arizona.edu/website/clulab.png"
+  icon_url: "https://raw.githubusercontent.com/clulab/nlp.arizona.edu/main/assets/images/clulab.png"
 - name: "Machine Learning for Artificial Intelligence Lab"
   url: "https://ml4ai.github.io/"
   icon_url: "https://ml4ai.github.io/public/ml4ai.png"
