@@ -3,6 +3,16 @@ CS:
   url: "http://cs.arizona.edu/"
   apply_url: "https://grad.arizona.edu/catalog/programinfo/COSCPHD"
   courses:
+    - title: "Principles of Data Science"
+      codes:
+      - code: "CSC 380"
+    - title: "Principles of Machine Learning"
+      codes:
+      - code: "CSC 480"
+      - code: "CSC 580"
+    - title: "Probabilistic Graphical Models"
+      codes:
+      - code: "CSC 535"
     - title: "Text Retrieval and Web Search"
       codes:
       - code: "CSC 483"
@@ -10,6 +20,12 @@ CS:
     - title: "Algorithms for Natural Language Processing"
       codes:
       - code: "CSC 585"
+    - title: "Machine Learning Theory"
+      codes:
+      - code: "CSC 588"
+    - title: "Advanced Topics in Artificial Intelligence"
+      codes:
+      - code: "CSC 696H"
 INFO:
   name: "School of Information"
   url: "http://ischool.arizona.edu/"
